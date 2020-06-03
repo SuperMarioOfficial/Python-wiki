@@ -1,1 +1,15 @@
-# python3-wiki
+## Hand's on python
+- Introduction to the hand's on methodology 
+- Lazy looping
+- Huffman encoding 
+- Json enconding and decoding
+- Error handling
+- Regex
+- Scraping webpages
+- Classes
+- Web servers solutions 
+- Logging Errors 
+- Decorators
+- Debugging python
+- Cython 
+- Writing Libraries
