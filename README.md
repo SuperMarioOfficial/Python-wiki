@@ -9,7 +9,7 @@
 - Regex
 - Classes
 - Decorators
-- Web servers solutions 
+- Flask
 - Logging Errors 
 - Debugging python
 - Multithreading
