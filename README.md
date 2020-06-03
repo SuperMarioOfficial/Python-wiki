@@ -1,20 +1,21 @@
 ## Hand's on python Basics
 - Introduction to the hand's on methodology 
-- BIG motivational speech
+- "BIG" motivational speech
 - Troubleshooting python errors like a pro
 - Everything you need to know about python in 15 minutes
 
 ## Hand's on python Intermediate
 - Introduction to the hand's on methodology 
-- Lazy looping
+- "BIG" motivational speech
+- The Big-"oh" and Lazy looping
 - Huffman encoding 
 - Enconding and decoding
 - Working with API
 - Error handling
 - Debugging python scripts
 - Accessing the DOM
-- Regex 
-- Classes OOP
+- Regex
+- Classes and OOP
 - Decorators
 - Flask
 - Database handling
@@ -25,6 +26,8 @@
 - Multithreading
 - Cython 
 - Writing Libraries
+- Visualization libraries
+- Advanced scraping
 
 ## Hand's on python Specials
 - Working with audio files
