@@ -1,6 +1,8 @@
 ## Hand's on python Basics
 - Introduction to the hand's on methodology 
-- Everything you need to know about python
+- BIG motivational speech
+- Troubleshooting python errors like a pro
+- Everything you need to know about python in 15 minutes
 
 ## Hand's on python Intermediate
 - Introduction to the hand's on methodology 
@@ -11,8 +13,8 @@
 - Error handling
 - Debugging python scripts
 - Accessing the DOM
-- Regex
-- Classes
+- Regex 
+- Classes OOP
 - Decorators
 - Flask
 - Database handling
