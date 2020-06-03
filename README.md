@@ -2,14 +2,16 @@
 - Introduction to the hand's on methodology 
 - Lazy looping
 - Huffman encoding 
-- Json enconding and decoding
+- Enconding and decoding
+- Working with API
 - Error handling
+- Accessing the DOM
 - Regex
-- Scraping webpages
 - Classes
+- Decorators
 - Web servers solutions 
 - Logging Errors 
-- Decorators
 - Debugging python
+- Multithreading
 - Cython 
 - Writing Libraries
